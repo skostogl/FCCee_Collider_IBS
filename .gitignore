@@ -4,3 +4,5 @@ __pycache__/
 .ipynb_checkpoints/
 *.log
 .venv/
+
+/final_doublet_cryostat_motion/
